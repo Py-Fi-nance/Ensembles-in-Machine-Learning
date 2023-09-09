@@ -48,12 +48,7 @@ Use the best model to predict the closing price of Bitcoin for the next availabl
 Ensemble Techniques: This approach leverages ensemble methods like Bagging, Boosting, Stacking and Voting Regressors, combining different individual models to improve prediction accuracy.
 Hyperparameter Tuning: Through GridSearchCV, the code ensures that the best possible hyperparameters are selected for each model, optimizing model performance.
 Advanced Models: Use of sophisticated models like XGBoost and ensemble models showcases a state-of-the-art approach to forecasting.
-## Data Visualization
-A key aspect of this project is the use of advanced visualization techniques to understand the data's structure and relationships. Scatter plots, histograms, residual plots, and more are utilized.
 
-
-## Predictive Modeling
-We employ Linear Regression, a robust statistical modeling technique, to predict median housing prices based on various features such as median income, housing median age, average rooms, etc.
 ## Contributing
 We welcome contributions to this project. To contribute:
 
