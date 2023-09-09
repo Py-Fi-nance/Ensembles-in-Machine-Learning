@@ -1,14 +1,14 @@
 # Ensembles-in-Machine-Learning
 Theoretical explanation and project forecasting Bitcoin price 
 
-This repository contains an in-depth analysis of the Ensembles in Machine Learning Models using Bitcoin stock price data. 
+This repository showcases the use of state-of-the-art machine learning models for predicting Bitcoin's closing price in USD. By leveraging ensemble techniques, the tutorial provides a comprehensive approach to forecast cryptocurrency prices with higher accurracy. 
 
 ![Python Version](https://img.shields.io/badge/Python-3.6%2B-blue)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-[![Forks](https://img.shields.io/github/forks/Py-Fi-nance/Linear-Trends-and-Linear-Regression)](https://github.com/Py-Fi-nance/Ensembles-in-Machine-Learning/network)
-[![Stars](https://img.shields.io/github/stars/Py-Fi-nance/Linear-Trends-and-Linear-Regression)](https://github.com/Py-Fi-nance/Ensembles-in-Machine-Learning/stargazers)
+[![Forks](https://img.shields.io/github/forks/Py-Fi-nance/Ensembles-in-Machine-Learning)](https://github.com/Py-Fi-nance/Ensembles-in-Machine-Learning/network)
+[![Stars](https://img.shields.io/github/stars/Py-Fi-nance/Ensembles-in-Machine-Learning)](https://github.com/Py-Fi-nance/Ensembles-in-Machine-Learning/stargazers)
 
 ## Table of Contents
 - [Prerequisites](#prerequisites)
